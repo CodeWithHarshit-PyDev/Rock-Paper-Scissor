@@ -37,12 +37,12 @@ You win! 🎉
 * Multi-round scoring system
 
 ## Author
-
-**Your Name** – [CodeWithHarshit-PyDev](https://github.com/CodeWithHarshit-PyDev/)
+[CodeWithHarshit-PyDev](https://github.com/CodeWithHarshit-PyDev/)
 
 ## License
 
 MIT License
+
 
 
 
