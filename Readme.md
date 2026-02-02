@@ -38,10 +38,11 @@ You win! 🎉
 
 ## Author
 
-**Your Name** – [CodeWithHarshit-PyDev]https://github.com/CodeWithHarshit-PyDev/
+**Your Name** – [CodeWithHarshit-PyDev](https://github.com/CodeWithHarshit-PyDev/)
 
 ## License
 
 MIT License
+
 
 
